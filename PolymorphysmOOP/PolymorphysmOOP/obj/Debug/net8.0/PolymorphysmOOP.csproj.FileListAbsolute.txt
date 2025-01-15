@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\obj\Debug\net8.0\PolymorphysmOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\obj\Debug\net8.0\PolymorphysmOOP.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\obj\Debug\net8.0\PolymorphysmOOP.AssemblyInfo.cs
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\obj\Debug\net8.0\PolymorphysmOOP.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\bin\Debug\net8.0\PolymorphysmOOP.exe
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\bin\Debug\net8.0\PolymorphysmOOP.deps.json
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\bin\Debug\net8.0\PolymorphysmOOP.runtimeconfig.json
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\bin\Debug\net8.0\PolymorphysmOOP.dll
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\bin\Debug\net8.0\PolymorphysmOOP.pdb
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\obj\Debug\net8.0\PolymorphysmOOP.dll
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\obj\Debug\net8.0\refint\PolymorphysmOOP.dll
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\obj\Debug\net8.0\PolymorphysmOOP.pdb
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\obj\Debug\net8.0\PolymorphysmOOP.genruntimeconfig.cache
+C:\Users\caplo\source\repos\PolymorphysmOOP\PolymorphysmOOP\obj\Debug\net8.0\ref\PolymorphysmOOP.dll
